@@ -12,7 +12,8 @@ testing markdown
    > this is about home page for login 
    
    
-   |signup |signin|home|
+   | signup | signin | home |
+   | --- | --- | --- |
    
    
 checking markdown to test
